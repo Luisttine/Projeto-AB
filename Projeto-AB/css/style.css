@@ -1,0 +1,29 @@
+h1, h2 {
+    color: pink;
+    text-align: left;
+}
+
+.fundo {
+    /*background-image: url(img/background.jpg);*/
+    background-color: rgb(105, 103, 103);
+    width: auto;
+    height: auto;
+    background-size: cover;
+}
+
+.logo {
+    border-radius: 20%;
+    width: auto;
+    height: auto;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+div {
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+a {
+    color: blue;
+}
