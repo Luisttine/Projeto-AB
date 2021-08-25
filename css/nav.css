@@ -32,6 +32,10 @@
     border-radius: 10px;
 }
 
+.link:houver{
+    background-color: #000000;
+}
+
 #check{
     display: none;
 }
