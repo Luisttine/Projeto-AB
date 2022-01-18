@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;    
+}
+.carousel-item {
+    height: 300px;
+}
+
+.adjust {
+    margin-top: 50%;
+}
